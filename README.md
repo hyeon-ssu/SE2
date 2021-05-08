@@ -139,7 +139,7 @@
 
 |명령어|사용 여부|사용 위치|
 |---|---|---|
-|add|o|first commit|
+|add|o|[first-commit](#first-commit)|
 |branch|o|third commit|
 |checkout|o|third commit|
 |clone|o|first commit|
