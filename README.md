@@ -2,12 +2,12 @@
 
 ---
 ## **목차**  
-### 1. first commit  
-### 2. second commit  
-### 3. third commit  
-### 4. fourth commit  
-### 5. fifth commit  
-### 6. git 명령어 사용 표  
+- 1. first commit  
+-  2. second commit  
+- 3. third commit  
+- 4. fourth commit  
+- 5. fifth commit  
+- 6. git 명령어 사용 표  
 
 ---
 
