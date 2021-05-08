@@ -2,7 +2,7 @@
 
 ---
 ## **목차**  
-- [first-commit](#first-commit)  
+- [1.-first-commit](#1.-first-commit)  
 -  second commit  
 - third commit  
 - fourth commit  
