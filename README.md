@@ -3,11 +3,11 @@
 ---
 ## **목차**  
 - [1-first-commit](#1-first-commit)  
--  second commit  
-- third commit  
-- fourth commit  
-- fifth commit  
-- git 명령어 사용 표  
+- [2-second-commit](#2-second-commit)  
+- [3-third-commit](#3-third-commit)  
+- [4-fourth-commit](#4-fourth-commit)  
+- [5-fifth-commit](#5-fifth-commit)  
+- [6-git-명령어-사용-표](#6-git-명령어-사용-표)  
 
 ---
 
@@ -135,23 +135,23 @@
 
 ---
 
-### **6. 명령어 사용 표**  
+### **6. git 명령어 사용 표**  
 
 |명령어|사용 여부|사용 위치|
 |---|---|---|
-|add|o|[first-commit](#first-commit)|
-|branch|o|third commit|
-|checkout|o|third commit|
-|clone|o|first commit|
-|commit|o|fisrst commit|
-|config|o|first commit|
-|init|o|first commit|
-|log|o|second commit|
-|merge|o|fourth commit|
-|pull|o|fifth commit|
-|push|o|fifth commit|
-|rebase|o|fifth commit|
-|remote|o|fifth commit|
-|reset --hard|o|second commit|
-|status|o|first commit|
-|tag|o|third commit|
+|add|o|[1-first-commit](#1-first-commit)|
+|branch|o|[3-third-commit](#3-third-commit)|
+|checkout|o|[3-third-commit](#3-third-commit)|
+|clone|o|[1-first-commit](#1-first-commit)|
+|commit|o|[1-first-commit](#1-first-commit)|
+|config|o|[1-first-commit](#1-first-commit)|
+|init|o|[1-first-commit](#1-first-commit)|
+|log|o|[2-second-commit](#2-second-commit)|
+|merge|o|[4-fourth-commit](#4-fourth-commit)|
+|pull|o|[5-fifth-commit](#5-fifth-commit)|
+|push|o|[5-fifth-commit](#5-fifth-commit)|
+|rebase|o|[5-fifth-commit](#5-fifth-commit)|
+|remote|o|[5-fifth-commit](#5-fifth-commit)|
+|reset --hard|o|[2-second-commit](#2-second-commit)|
+|status|o|[1-first-commit](#1-first-commit)|
+|tag|o|[3-third-commit](#3-third-commit)|
